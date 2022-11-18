@@ -1,5 +1,7 @@
 # Github leiðbeiningar fyrir Vélaverkfræði SIMPANSA:
 
+## Basics
+
 installa git
 
 fara í cmd
@@ -23,3 +25,5 @@ git commit -m "ehv message sem segir hvað þú varst að gera"  (commit-ast lí
 git push 
 
 þá pushar þú því sem þú varst að commit-a inná Githubbið (remote repo-ið)
+
+## Github cheat sheet: https://education.github.com/git-cheat-sheet-education.pdf
