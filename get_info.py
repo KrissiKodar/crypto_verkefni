@@ -25,7 +25,7 @@ def get_info(url):
     return word_freq
 
 
-L = get_info('https://en.wikipedia.org/wiki/Bir_Hakeim_rescue')
+L = get_info('https://www.reddit.com/r/CryptoCurrency/')
 
 print(L)
 
